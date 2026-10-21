@@ -52,7 +52,7 @@ AdaPPR-RAG 是一种面向多跳问答的问题自适应知识图谱增强检索
 
 ### 模型框架图
 
-![AdaPPR-RAG 模型框架图](docs/model_framework.png)
+![AdaPPR-RAG 模型框架图](main_model/docs/model_framework.png)
 
 ### 模型流程
 
