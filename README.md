@@ -12,7 +12,7 @@ AdaPPR-RAG is a query-adaptive, graph-augmented retrieval framework for multi-ho
 
 ### Framework
 
-![AdaPPR-RAG framework](docs/model_framework.png)
+![AdaPPR-RAG framework](main_model/docs/model_framework.png)
 
 ### Workflow
 
